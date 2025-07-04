@@ -10,7 +10,7 @@ A simple and responsive Login and Signup interface built using **HTML**, **CSS**
 * Minimal and clean UI design
 * Built using vanilla HTML, CSS & JavaScript (No frameworks)
 
-## Tech Stack
+## Tech Stack
 
 * **HTML5** – Structure of the page
 * **CSS3** – Styling and layout
